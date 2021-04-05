@@ -5,7 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_PC
+name: Build_linksys_openwrt
 
 on:
   repository_dispatch:
